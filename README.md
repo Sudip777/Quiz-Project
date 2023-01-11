@@ -1,0 +1,3 @@
+# Quiz-Project
+This is a quizz app made  using html,css,js 
+The takeaway of this project is DOM,objects,forEach and more.....
